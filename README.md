@@ -1,4 +1,6 @@
 # nf-hello plugin 
+
+test1
  
 This project shows how to implement a simple Nextflow plugin named `nf-hello` which intercepts workflow execution events to print a message when the execution starts and on workflow completion.
 
